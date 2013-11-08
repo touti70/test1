@@ -26,6 +26,8 @@ Le cahier des charges est divisé en deux parties, la parti concernant les utili
    * Une interface pour corrigé les exercices validés
    * Une interface permettant le dialogue entre les administrateurs et les validateurs
 
+Ce cahier des charges n'est pas fixe et il est suceptible de changer. ;)
+
 Déroulement d'une session
 -------------------------
 
