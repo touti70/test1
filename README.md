@@ -12,7 +12,11 @@ Cahier des charges
 
 Le cahier des charges est divisé en deux parties, la parti concernant les utilisateurs et la parti concernant les administrateurs/correcteurs.
 
-	* 
+  * CDC concernant les utilisateurs
+	  Un espace membre (connexion, inscription, forum, profil)
+	  Un espace pour proposer leurs propres exercices
+	  Une interface intéractif, simple et épurer pour résoudre les exercices
+	  Ce contenu est susceptible de changer bien évidemment
 
 
 
