@@ -40,3 +40,5 @@ Comment ça ce passe sur le site ? Très simple, un utilisateur lambda arrive su
  * Suivi du membre par le validateur une fois son code corriger, pour des améliorations, des remarques, de l'aide etc
  * Et on continue avec un nouvelle exercice
  * Et on répète les mêmes actions encore et toujours
+
+Il est possible de changer de langage ou de demander de l'aide sur les forums à n'importe quelle moment. :)
